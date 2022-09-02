@@ -29,6 +29,8 @@ really a list containing a function to
 
 <!-- -->
 
+xxx
+
     makeVector <- function(x = numeric()) {
             m <- NULL
             set <- function(y) {
