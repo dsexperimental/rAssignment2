@@ -29,8 +29,6 @@ really a list containing a function to
 
 <!-- -->
 
-xxx
-
     makeVector <- function(x = numeric()) {
             m <- NULL
             set <- function(y) {
@@ -106,3 +104,5 @@ In order to complete this assignment, you must do the following:
 
 This assignment will be graded via peer assessment.
 
+
+yyy
